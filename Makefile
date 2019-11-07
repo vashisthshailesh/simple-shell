@@ -1,0 +1,3 @@
+
+all:
+	gcc cm.c
